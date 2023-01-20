@@ -1,5 +1,5 @@
 {
-  "name": "JATE",
+  "name": "jate",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -12,7 +12,7 @@
     "client": ""
   },
   "keywords": [],
-  "author": "",
+  "author": "Kevin Tran",
   "license": "ISC",
   "dependencies": {
     "babel": "^6.23.0",
@@ -26,5 +26,13 @@
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4",
     "webpack": "^5.75.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevintran87/mod19-pwa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kevintran87/mod19-pwa/issues"
+  },
+  "homepage": "https://github.com/kevintran87/mod19-pwa#readme"
 }
